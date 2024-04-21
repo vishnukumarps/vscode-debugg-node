@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:4310",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
+
+// create launch.json file inside .vscode folder
+// First run the app uisng npm start or yarn start
+// hit f5
+// vs code will open a new instance of browser
+// you can use break points now
