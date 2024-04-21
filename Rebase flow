@@ -1,0 +1,23 @@
+Rebase
+
+Dev branch 
+
+dev vishnu branch
+
+==========
+
+Switch to dev
+take pull
+
+switch to dev-vishnu
+dev-vishnu is 2 commit behind from dev
+stash all the changes 
+
+git rebase/dev
+
+applay stash
+remove conflict
+
+commit chnages as one commit
+
+create PR 
